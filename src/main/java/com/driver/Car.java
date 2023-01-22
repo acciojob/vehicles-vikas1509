@@ -36,11 +36,11 @@ currentGear=1;
     public void setCurrentGear(int currentGear) {
         this.currentGear = currentGear;
     }
-    public  boolean getisManual(){
+    public  boolean getsManual(){
         return isManual;
     }
 
-    public void setisManual(boolean manual) {
+    public void setsManual(boolean manual) {
         isManual = manual;
     }
 
